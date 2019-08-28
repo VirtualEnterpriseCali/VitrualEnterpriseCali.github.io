@@ -1,0 +1,26 @@
+
+    body {
+            background-color:#0F0F0F;
+         
+        }
+            body p{
+                color:#FFFFFF;
+            }
+            body ol{
+            color:#FFFFFF;
+            }   
+            body ul{
+            color:#FFFFFF;
+            }
+            header {
+                margin:0px;
+                padding:0px;
+                list-style:none;
+            color:#0F0F0F;
+            }
+            header {
+                float: left;
+                width: 250px;
+                height:100px;
+                background-color:gold;
+            }
